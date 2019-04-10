@@ -1,0 +1,48 @@
+EXAMPLE STANDARD
+
+Effects:General
+
+Standard Number: GEN-0001v1
+
+Overview:
+1.General Standard GEN-0001 lays out the format for standards
+2. All Standards have what area they affect
+3. The Standard Number is based of what area is affected (General/Overworld/Nether/End)
+4. Technical Notes follow the format of Overview point effected (1,2,3,4) that needs expansion, Indent for i (i,ii,iii,iv), another indent of letter (a,b,c,d) and repeating for each sub
+5. The layout to be followed by each format is below
+
+
+Technical Notes
+3. Standard Number
+	i The first three letters define the area of effect:
+		a GEN for General
+		b NET for Nether
+		c END for The END
+		d OVR for Overworld
+	ii The Numbers after follow a 4 number pattern
+		a Each iteration is sequential for each further addition starting at 0001
+		b Each Number is 4 Long
+		c All other numbers are pad with 0s - as in 0001 or 0002
+5. Format Layout is below
+
+
+Effects: General/Overworld/Nether/End
+
+Standard Number:
+
+
+Overview:
+	1.	
+	2.
+	3.
+
+	
+Technical Notes:
+	1. #Point Overview 1
+		i. #Important Information about General Point
+		ii.
+		iii.
+		
+		
+
+
